@@ -1,3 +1,3 @@
 <?php
 
-echo "dev-006";
+echo "dev-006 second";
